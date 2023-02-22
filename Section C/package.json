@@ -1,0 +1,17 @@
+{
+  "name": "section-c",
+  "version": "1.0.0",
+  "description": "Coding Mentor Take Home Test",
+  "main": "codechallenge.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ashlone Chibvuri",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.3"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2"
+  }
+}
